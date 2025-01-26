@@ -1,0 +1,735 @@
+[
+  {
+    "university_name": "Oxford University",
+    "university_logo": "https://cdn.getyourguide.com/img/location/5c10eb21206c9.jpeg/99.jpg",
+    "scholarship_category": "Undergraduate",
+    "location": {
+      "country": "United Kingdom",
+      "city": "Oxford"
+    },
+    "application_deadline": "2025-02-28",
+    "subject_category": "Humanities",
+    "application_fees": 50,
+    "rating": 4.8,
+    "scholarship_details_url": "https://example.com/oxford_scholarship",
+    "subject_name": "English Literature",
+    "scholarship_description": "A full-tuition scholarship for talented students in English literature.",
+    "stipend": "£10,000 per year",
+    "post_date": "2025-01-01",
+    "service_charge": 10,
+    "apply_scholarship_url": "https://example.com/apply_oxford"
+  },
+  {
+    "university_name": "Harvard University",
+    "university_logo": "https://www.avanse.com/blogs/images/What%20you%20must%20know%20about%20Harvard%20University.jpg",
+    "scholarship_category": "Graduate",
+    "location": {
+      "country": "USA",
+      "city": "Cambridge"
+    },
+    "application_deadline": "2025-03-15",
+    "subject_category": "Business",
+    "application_fees": 75,
+    "rating": 4.9,
+    "scholarship_details_url": "https://example.com/harvard_scholarship",
+    "subject_name": "MBA",
+    "scholarship_description": "A merit-based scholarship for exceptional MBA candidates.",
+    "stipend": "$20,000 annually",
+    "post_date": "2025-01-05",
+    "service_charge": 20,
+    "apply_scholarship_url": "https://example.com/apply_harvard"
+  },
+  {
+    "university_name": "University of Tokyo",
+    "university_logo": "https://images.unsplash.com/photo-1700989101224-c4d286d8279a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "scholarship_category": "Postgraduate",
+    "location": {
+      "country": "Japan",
+      "city": "Tokyo"
+    },
+    "application_deadline": "2025-04-01",
+    "subject_category": "Engineering",
+    "application_fees": 60,
+    "rating": 4.7,
+    "scholarship_details_url": "https://example.com/tokyo_scholarship",
+    "subject_name": "Civil Engineering",
+    "scholarship_description": "Funding for postgraduate students specializing in civil engineering.",
+    "stipend": "¥1,200,000 annually",
+    "post_date": "2025-01-10",
+    "service_charge": 15,
+    "apply_scholarship_url": "https://example.com/apply_tokyo"
+  },
+  {
+    "university_name": "University of Melbourne",
+    "university_logo": "https://images.unsplash.com/photo-1470378639897-89788e74b7bf?q=80&w=2074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "scholarship_category": "Undergraduate",
+    "location": {
+      "country": "Australia",
+      "city": "Melbourne"
+    },
+    "application_deadline": "2025-05-20",
+    "subject_category": "Science",
+    "application_fees": 55,
+    "rating": 4.6,
+    "scholarship_details_url": "https://example.com/melbourne_scholarship",
+    "subject_name": "Environmental Science",
+    "scholarship_description": "A full scholarship for students in environmental sciences.",
+    "stipend": "A$15,000 annually",
+    "post_date": "2025-01-12",
+    "service_charge": 10,
+    "apply_scholarship_url": "https://example.com/apply_melbourne"
+  },
+  {
+    "university_name": "ETH Zurich",
+    "university_logo": "https://images.unsplash.com/photo-1601840698412-cbecc8039e6b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "scholarship_category": "PhD",
+    "location": {
+      "country": "Switzerland",
+      "city": "Zurich"
+    },
+    "application_deadline": "2025-06-30",
+    "subject_category": "Computer Science",
+    "application_fees": 70,
+    "rating": 4.9,
+    "scholarship_details_url": "https://example.com/eth_scholarship",
+    "subject_name": "Artificial Intelligence",
+    "scholarship_description": "Funding for groundbreaking research in artificial intelligence.",
+    "stipend": "CHF 25,000 annually",
+    "post_date": "2025-01-15",
+    "service_charge": 20,
+    "apply_scholarship_url": "https://example.com/apply_eth"
+  },
+  {
+    "university_name": "University of Toronto",
+    "university_logo": "https://www.trinity.utoronto.ca/wp-content/uploads/2019/01/trinity-home-wide-01.jpg",
+    "scholarship_category": "Graduate",
+    "location": {
+      "country": "Canada",
+      "city": "Toronto"
+    },
+    "application_deadline": "2025-03-01",
+    "subject_category": "Medicine",
+    "application_fees": 80,
+    "rating": 4.8,
+    "scholarship_details_url": "https://example.com/toronto_scholarship",
+    "subject_name": "Biomedical Sciences",
+    "scholarship_description": "Scholarship for graduate students in biomedical sciences.",
+    "stipend": "$18,000 annually",
+    "post_date": "2025-01-02",
+    "service_charge": 15,
+    "apply_scholarship_url": "https://example.com/apply_toronto"
+  },
+  {
+    "university_name": "Stanford University",
+    "university_logo": "https://agevolution.canalrural.com.br/wp-content/uploads/2019/09/homeXL.jpg",
+    "scholarship_category": "Postgraduate",
+    "location": {
+      "country": "USA",
+      "city": "Stanford"
+    },
+    "application_deadline": "2025-02-15",
+    "subject_category": "Technology",
+    "application_fees": 90,
+    "rating": 4.9,
+    "scholarship_details_url": "https://example.com/stanford_scholarship",
+    "subject_name": "Data Science",
+    "scholarship_description": "Scholarship for innovative research in data science.",
+    "stipend": "$25,000 annually",
+    "post_date": "2025-01-08",
+    "service_charge": 25,
+    "apply_scholarship_url": "https://example.com/apply_stanford"
+  },
+  {
+    "university_name": "National University of Singapore",
+    "university_logo": "https://coinjournal.net/wp-content/uploads/2020/05/NUS.jpg",
+    "scholarship_category": "Undergraduate",
+    "location": {
+      "country": "Singapore",
+      "city": "Singapore"
+    },
+    "application_deadline": "2025-05-10",
+    "subject_category": "Law",
+    "application_fees": 50,
+    "rating": 4.7,
+    "scholarship_details_url": "https://example.com/nus_scholarship",
+    "subject_name": "International Law",
+    "scholarship_description": "Scholarship for students pursuing a degree in international law.",
+    "stipend": "S$12,000 annually",
+    "post_date": "2025-01-06",
+    "service_charge": 10,
+    "apply_scholarship_url": "https://example.com/apply_nus"
+  },
+  {
+    "university_name": "University of Cape Town",
+    "university_logo": "https://www.iesabroad.org/sites/default/files/2022-06/YouVisit_IESCapeTown_universityofcapetown1.jpg",
+    "scholarship_category": "Graduate",
+    "location": {
+      "country": "South Africa",
+      "city": "Cape Town"
+    },
+    "application_deadline": "2025-04-25",
+    "subject_category": "Social Sciences",
+    "application_fees": 40,
+    "rating": 4.5,
+    "scholarship_details_url": "https://example.com/uct_scholarship",
+    "subject_name": "Anthropology",
+    "scholarship_description": "Funding for research-focused graduate students in anthropology.",
+    "stipend": "ZAR 150,000 annually",
+    "post_date": "2025-01-03",
+    "service_charge": 12,
+    "apply_scholarship_url": "https://example.com/apply_uct"
+  },
+  {
+    "university_name": "Seoul National University",
+    "university_logo": "https://international.eng.ui.ac.id/wp-content/uploads/194/2023/02/R-1.jpg",
+    "scholarship_category": "PhD",
+    "location": {
+      "country": "South Korea",
+      "city": "Seoul"
+    },
+    "application_deadline": "2025-03-30",
+    "subject_category": "Biotechnology",
+    "application_fees": 65,
+    "rating": 4.6,
+    "scholarship_details_url": "https://example.com/snu_scholarship",
+    "subject_name": "Genomics",
+    "scholarship_description": "Scholarship for PhD students researching genomic technologies.",
+    "stipend": "₩18,000,000 annually",
+    "post_date": "2025-01-04",
+    "service_charge": 18,
+    "apply_scholarship_url": "https://example.com/apply_snu"
+  },
+
+
+    {
+      "university_name": "University of Cambridge",
+      "university_logo": "https://www.edgeip.com/images/FCK/Image/202307/Cambridge-CollegesFacultiesWork.jpg",
+      "scholarship_category": "Graduate",
+      "location": {
+        "country": "United Kingdom",
+        "city": "Cambridge"
+      },
+      "application_deadline": "2025-03-20",
+      "subject_category": "Science",
+      "application_fees": 70,
+      "rating": 4.9,
+      "scholarship_details_url": "https://example.com/cambridge_scholarship",
+      "subject_name": "Physics",
+      "scholarship_description": "A full scholarship for outstanding graduate students in physics.",
+      "stipend": "£12,000 annually",
+      "post_date": "2025-01-11",
+      "service_charge": 15,
+      "apply_scholarship_url": "https://example.com/apply_cambridge"
+    },
+    {
+      "university_name": "Massachusetts Institute of Technology (MIT)",
+      "university_logo": "https://images.unsplash.com/photo-1605470207062-b72b5cbe2a87?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDd8fHxlbnwwfHx8fHw%3D",
+      "scholarship_category": "PhD",
+      "location": {
+        "country": "USA",
+        "city": "Cambridge"
+      },
+      "application_deadline": "2025-04-15",
+      "subject_category": "Engineering",
+      "application_fees": 90,
+      "rating": 4.9,
+      "scholarship_details_url": "https://example.com/mit_scholarship",
+      "subject_name": "Mechanical Engineering",
+      "scholarship_description": "A PhD scholarship for research in advanced mechanical systems.",
+      "stipend": "$30,000 annually",
+      "post_date": "2025-01-13",
+      "service_charge": 25,
+      "apply_scholarship_url": "https://example.com/apply_mit"
+    },
+    {
+      "university_name": "University of California, Berkeley",
+      "university_logo": "https://images.unsplash.com/photo-1671709363690-9392d9b38949?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "scholarship_category": "Undergraduate",
+      "location": {
+        "country": "USA",
+        "city": "Berkeley"
+      },
+      "application_deadline": "2025-02-28",
+      "subject_category": "Economics",
+      "application_fees": 80,
+      "rating": 4.8,
+      "scholarship_details_url": "https://example.com/berkeley_scholarship",
+      "subject_name": "Economics",
+      "scholarship_description": "Scholarship for economically disadvantaged students pursuing economics.",
+      "stipend": "$12,000 annually",
+      "post_date": "2025-01-09",
+      "service_charge": 20,
+      "apply_scholarship_url": "https://example.com/apply_berkeley"
+    },
+    {
+      "university_name": "University of Sydney",
+      "university_logo": "https://oztrekk.com/wp-content/uploads/2019/01/sydney_campus.jpg",
+      "scholarship_category": "Postgraduate",
+      "location": {
+        "country": "Australia",
+        "city": "Sydney"
+      },
+      "application_deadline": "2025-05-05",
+      "subject_category": "Health Sciences",
+      "application_fees": 60,
+      "rating": 4.7,
+      "scholarship_details_url": "https://example.com/sydney_scholarship",
+      "subject_name": "Public Health",
+      "scholarship_description": "Scholarship for students researching global health initiatives.",
+      "stipend": "A$18,000 annually",
+      "post_date": "2025-01-10",
+      "service_charge": 12,
+      "apply_scholarship_url": "https://example.com/apply_sydney"
+    },
+    {
+      "university_name": "Heidelberg University",
+      "university_logo": "https://www.heidelberg.edu/sites/default/files/styles/hero/public/2023-12/DSC00027.JPG?itok=LGsdgQjm",
+      "scholarship_category": "Graduate",
+      "location": {
+        "country": "Germany",
+        "city": "Heidelberg"
+      },
+      "application_deadline": "2025-06-10",
+      "subject_category": "History",
+      "application_fees": 50,
+      "rating": 4.6,
+      "scholarship_details_url": "https://example.com/heidelberg_scholarship",
+      "subject_name": "World History",
+      "scholarship_description": "Funding for history students with a focus on global studies.",
+      "stipend": "€10,000 annually",
+      "post_date": "2025-01-15",
+      "service_charge": 10,
+      "apply_scholarship_url": "https://example.com/apply_heidelberg"
+    },
+    {
+      "university_name": "Peking University",
+      "university_logo": "https://images.unsplash.com/photo-1566796096958-94dacebdcb6a?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "scholarship_category": "PhD",
+      "location": {
+        "country": "China",
+        "city": "Beijing"
+      },
+      "application_deadline": "2025-04-20",
+      "subject_category": "Philosophy",
+      "application_fees": 70,
+      "rating": 4.7,
+      "scholarship_details_url": "https://example.com/peking_scholarship",
+      "subject_name": "Ethics",
+      "scholarship_description": "Scholarship for PhD candidates researching ethical philosophy.",
+      "stipend": "¥80,000 annually",
+      "post_date": "2025-01-14",
+      "service_charge": 15,
+      "apply_scholarship_url": "https://example.com/apply_peking"
+    },
+    {
+      "university_name": "University of Edinburgh",
+      "university_logo": "https://www.ed.ac.uk/sites/default/files/thumbnails/image/cam_about-us-1_old_college_0.jpg",
+      "scholarship_category": "Postgraduate",
+      "location": {
+        "country": "United Kingdom",
+        "city": "Edinburgh"
+      },
+      "application_deadline": "2025-05-30",
+      "subject_category": "Political Science",
+      "application_fees": 65,
+      "rating": 4.8,
+      "scholarship_details_url": "https://example.com/edinburgh_scholarship",
+      "subject_name": "International Relations",
+      "scholarship_description": "Funding for students exploring international diplomacy.",
+      "stipend": "£10,500 annually",
+      "post_date": "2025-01-12",
+      "service_charge": 12,
+      "apply_scholarship_url": "https://example.com/apply_edinburgh"
+    },
+    {
+      "university_name": "University of Michigan",
+      "university_logo": "https://s.hdnux.com/photos/01/25/62/04/22487305/4/ratio16x9_1920.jpg",
+      "scholarship_category": "Graduate",
+      "location": {
+        "country": "USA",
+        "city": "Ann Arbor"
+      },
+      "application_deadline": "2025-03-18",
+      "subject_category": "Education",
+      "application_fees": 75,
+      "rating": 4.6,
+      "scholarship_details_url": "https://example.com/michigan_scholarship",
+      "subject_name": "Educational Leadership",
+      "scholarship_description": "Scholarship for future leaders in education.",
+      "stipend": "$15,000 annually",
+      "post_date": "2025-01-07",
+      "service_charge": 18,
+      "apply_scholarship_url": "https://example.com/apply_michigan"
+    },
+    {
+      "university_name": "University of Hong Kong",
+      "university_logo": "https://www.gohk.gov.hk/uploads/photo/1_C&W_18_%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%AD%B8_1.jpg",
+      "scholarship_category": "Undergraduate",
+      "location": {
+        "country": "Hong Kong",
+        "city": "Hong Kong"
+      },
+      "application_deadline": "2025-05-01",
+      "subject_category": "Fine Arts",
+      "application_fees": 50,
+      "rating": 4.7,
+      "scholarship_details_url": "https://example.com/hku_scholarship",
+      "subject_name": "Visual Arts",
+      "scholarship_description": "A scholarship supporting talented artists in their studies.",
+      "stipend": "HK$50,000 annually",
+      "post_date": "2025-01-05",
+      "service_charge": 10,
+      "apply_scholarship_url": "https://example.com/apply_hku"
+    },
+    {
+      "university_name": "University of Amsterdam",
+      "university_logo": "https://images.shiksha.com/mediadata/images/1534247890phpdtOeb7.png",
+      "scholarship_category": "PhD",
+      "location": {
+        "country": "Netherlands",
+        "city": "Amsterdam"
+      },
+      "application_deadline": "2025-06-15",
+      "subject_category": "Psychology",
+      "application_fees": 55,
+      "rating": 4.8,
+      "scholarship_details_url": "https://example.com/amsterdam_scholarship",
+      "subject_name": "Clinical Psychology",
+      "scholarship_description": "PhD scholarship for research in mental health and therapy.",
+      "stipend": "€15,000 annually",
+      "post_date": "2025-01-08",
+      "service_charge": 15,
+      "apply_scholarship_url": "https://example.com/apply_amsterdam"
+    },
+  
+
+      {
+        "university_name": "Princeton University",
+        "university_logo": "https://images.unsplash.com/photo-1635642158658-1468b1cf403c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "scholarship_category": "Undergraduate",
+        "location": {
+          "country": "USA",
+          "city": "Princeton"
+        },
+        "application_deadline": "2025-03-10",
+        "subject_category": "Mathematics",
+        "application_fees": 85,
+        "rating": 4.9,
+        "scholarship_details_url": "https://example.com/princeton_scholarship",
+        "subject_name": "Pure Mathematics",
+        "scholarship_description": "Full scholarship for exceptional mathematics students.",
+        "stipend": "$18,000 annually",
+        "post_date": "2025-01-11",
+        "service_charge": 20,
+        "apply_scholarship_url": "https://example.com/apply_princeton"
+      },
+      {
+        "university_name": "Yale University",
+        "university_logo": "https://admissions.yale.edu/sites/default/files/styles/main-carousel-image--1280x850/public/home-main-carousel-images/crosscampus2019.png?itok=QJDBkwgU",
+        "scholarship_category": "Graduate",
+        "location": {
+          "country": "USA",
+          "city": "New Haven"
+        },
+        "application_deadline": "2025-04-01",
+        "subject_category": "Law",
+        "application_fees": 100,
+        "rating": 4.8,
+        "scholarship_details_url": "https://example.com/yale_scholarship",
+        "subject_name": "Constitutional Law",
+        "scholarship_description": "Scholarship for graduate students in constitutional law.",
+        "stipend": "$22,000 annually",
+        "post_date": "2025-01-15",
+        "service_charge": 25,
+        "apply_scholarship_url": "https://example.com/apply_yale"
+      },
+      {
+        "university_name": "University of Oxford",
+        "university_logo": "https://cdn.getyourguide.com/img/location/5c10eb21206c9.jpeg/99.jpg",
+        "scholarship_category": "Postgraduate",
+        "location": {
+          "country": "United Kingdom",
+          "city": "Oxford"
+        },
+        "application_deadline": "2025-03-25",
+        "subject_category": "Humanities",
+        "application_fees": 70,
+        "rating": 4.9,
+        "scholarship_details_url": "https://example.com/oxford_postgrad_scholarship",
+        "subject_name": "Classics",
+        "scholarship_description": "Funding for postgraduate students in classical studies.",
+        "stipend": "£15,000 annually",
+        "post_date": "2025-01-10",
+        "service_charge": 18,
+        "apply_scholarship_url": "https://example.com/apply_oxford_postgrad"
+      },
+      {
+        "university_name": "University of British Columbia",
+        "university_logo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/1b/0f/b6/irving-k-barber-learning.jpg?w=1200&h=-1&s=1",
+        "scholarship_category": "Undergraduate",
+        "location": {
+          "country": "Canada",
+          "city": "Vancouver"
+        },
+        "application_deadline": "2025-03-20",
+        "subject_category": "Computer Science",
+        "application_fees": 75,
+        "rating": 4.7,
+        "scholarship_details_url": "https://example.com/ubc_scholarship",
+        "subject_name": "Software Development",
+        "scholarship_description": "Scholarship for undergraduate students specializing in software engineering.",
+        "stipend": "CA$12,000 annually",
+        "post_date": "2025-01-08",
+        "service_charge": 15,
+        "apply_scholarship_url": "https://example.com/apply_ubc"
+      },
+      {
+        "university_name": "University of Geneva",
+        "university_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/University_of_Geneva_2015.jpg/1200px-University_of_Geneva_2015.jpg",
+        "scholarship_category": "PhD",
+        "location": {
+          "country": "Switzerland",
+          "city": "Geneva"
+        },
+        "application_deadline": "2025-05-30",
+        "subject_category": "Environmental Studies",
+        "application_fees": 65,
+        "rating": 4.6,
+        "scholarship_details_url": "https://example.com/geneva_scholarship",
+        "subject_name": "Climate Change Research",
+        "scholarship_description": "Funding for PhD research in climate change mitigation.",
+        "stipend": "CHF 20,000 annually",
+        "post_date": "2025-01-12",
+        "service_charge": 20,
+        "apply_scholarship_url": "https://example.com/apply_geneva"
+      },
+      {
+        "university_name": "Monash University",
+        "university_logo": "https://www.qschina.cn/sites/default/files/profiles-slideshow/calendar-photos-for-2015-15.jpg",
+        "scholarship_category": "Graduate",
+        "location": {
+          "country": "Australia",
+          "city": "Melbourne"
+        },
+        "application_deadline": "2025-04-15",
+        "subject_category": "Medicine",
+        "application_fees": 80,
+        "rating": 4.8,
+        "scholarship_details_url": "https://example.com/monash_scholarship",
+        "subject_name": "Public Health",
+        "scholarship_description": "Funding for students pursuing graduate studies in public health.",
+        "stipend": "A$18,000 annually",
+        "post_date": "2025-01-13",
+        "service_charge": 12,
+        "apply_scholarship_url": "https://example.com/apply_monash"
+      },
+      {
+        "university_name": "Sorbonne University",
+        "university_logo": "https://img-ccmbg-1.lefigaro.fr/sokeD_1IQdl7ObADeylY5IIOFog=/1500x/smart/852e5ca554144b879cddea57f63463b0/ccmcms-figaroetudiant/39480737.jpg",
+        "scholarship_category": "Postgraduate",
+        "location": {
+          "country": "France",
+          "city": "Paris"
+        },
+        "application_deadline": "2025-05-10",
+        "subject_category": "Arts",
+        "application_fees": 50,
+        "rating": 4.7,
+        "scholarship_details_url": "https://example.com/sorbonne_scholarship",
+        "subject_name": "Art History",
+        "scholarship_description": "Scholarship for postgraduate students in European art history.",
+        "stipend": "€10,000 annually",
+        "post_date": "2025-01-10",
+        "service_charge": 10,
+        "apply_scholarship_url": "https://example.com/apply_sorbonne"
+      },
+      {
+        "university_name": "Kyoto University",
+        "university_logo": "https://edu-all.com/uploaded_files/blogs/2022/10/GetPaidStock.com-6351029a19e9e.jpg",
+        "scholarship_category": "PhD",
+        "location": {
+          "country": "Japan",
+          "city": "Kyoto"
+        },
+        "application_deadline": "2025-06-01",
+        "subject_category": "Biochemistry",
+        "application_fees": 60,
+        "rating": 4.8,
+        "scholarship_details_url": "https://example.com/kyoto_scholarship",
+        "subject_name": "Enzymology",
+        "scholarship_description": "Funding for PhD research in biochemical enzyme studies.",
+        "stipend": "¥1,500,000 annually",
+        "post_date": "2025-01-15",
+        "service_charge": 18,
+        "apply_scholarship_url": "https://example.com/apply_kyoto"
+      },
+      {
+        "university_name": "University of Copenhagen",
+        "university_logo": "https://www.biotechreality.com/wp-content/uploads/2023/09/university_of_copenhagen_phd.jpg",
+        "scholarship_category": "Graduate",
+        "location": {
+          "country": "Denmark",
+          "city": "Copenhagen"
+        },
+        "application_deadline": "2025-05-20",
+        "subject_category": "Sociology",
+        "application_fees": 55,
+        "rating": 4.6,
+        "scholarship_details_url": "https://example.com/copenhagen_scholarship",
+        "subject_name": "Urban Sociology",
+        "scholarship_description": "Scholarship for graduate research in urban sociology.",
+        "stipend": "DKK 120,000 annually",
+        "post_date": "2025-01-11",
+        "service_charge": 15,
+        "apply_scholarship_url": "https://example.com/apply_copenhagen"
+      },
+      {
+        "university_name": "University of Delhi",
+        "university_logo": "https://cdn.britannica.com/68/263768-050-69EEA7B7/Students-at-Delhi-University-north-campus-on-the-second-day-of-admissions-for-2021-22-on-October-5-2021-in-New-Delhi-India-University-of-Delhi.jpg",
+        "scholarship_category": "Undergraduate",
+        "location": {
+          "country": "India",
+          "city": "Delhi"
+        },
+        "application_deadline": "2025-04-30",
+        "subject_category": "Humanities",
+        "application_fees": 20,
+        "rating": 4.5,
+        "scholarship_details_url": "https://example.com/delhi_scholarship",
+        "subject_name": "History",
+        "scholarship_description": "Scholarship for high-achieving students in history.",
+        "stipend": "₹50,000 annually",
+        "post_date": "2025-01-07",
+        "service_charge": 5,
+        "apply_scholarship_url": "https://example.com/apply_delhi"
+      },
+    
+    
+  
+      
+        {
+          "university_name": "Stanford University",
+          "university_logo": "https://agevolution.canalrural.com.br/wp-content/uploads/2019/09/homeXL.jpg",
+          "scholarship_category": "Graduate",
+          "location": {
+            "country": "USA",
+            "city": "Stanford"
+          },
+          "application_deadline": "2025-03-01",
+          "subject_category": "Engineering",
+          "application_fees": 90,
+          "rating": 4.9,
+          "scholarship_details_url": "https://example.com/stanford_scholarship",
+          "subject_name": "Electrical Engineering",
+          "scholarship_description": "Full funding for graduate students specializing in renewable energy technologies.",
+          "stipend": "$25,000 annually",
+          "post_date": "2025-01-15",
+          "service_charge": 20,
+          "apply_scholarship_url": "https://example.com/apply_stanford"
+        },
+        {
+          "university_name": "National University of Singapore (NUS)",
+          "university_logo": "https://coinjournal.net/wp-content/uploads/2020/05/NUS.jpg",
+          "scholarship_category": "PhD",
+          "location": {
+            "country": "Singapore",
+            "city": "Singapore"
+          },
+          "application_deadline": "2025-04-25",
+          "subject_category": "Biotechnology",
+          "application_fees": 70,
+          "rating": 4.8,
+          "scholarship_details_url": "https://example.com/nus_scholarship",
+          "subject_name": "Biomedical Engineering",
+          "scholarship_description": "Research funding for PhD candidates in biomedical innovation.",
+          "stipend": "SGD 30,000 annually",
+          "post_date": "2025-01-12",
+          "service_charge": 18,
+          "apply_scholarship_url": "https://example.com/apply_nus"
+        },
+        {
+          "university_name": "University of Cape Town",
+          "university_logo": "https://www.iesabroad.org/sites/default/files/2022-06/YouVisit_IESCapeTown_universityofcapetown1.jpg",
+          "scholarship_category": "Undergraduate",
+          "location": {
+            "country": "South Africa",
+            "city": "Cape Town"
+          },
+          "application_deadline": "2025-03-15",
+          "subject_category": "Environmental Studies",
+          "application_fees": 40,
+          "rating": 4.7,
+          "scholarship_details_url": "https://example.com/cape_town_scholarship",
+          "subject_name": "Environmental Science",
+          "scholarship_description": "Scholarship for students passionate about conservation and sustainability.",
+          "stipend": "ZAR 50,000 annually",
+          "post_date": "2025-01-08",
+          "service_charge": 10,
+          "apply_scholarship_url": "https://example.com/apply_cape_town"
+        },
+        {
+          "university_name": "Seoul National University",
+          "university_logo": "https://international.eng.ui.ac.id/wp-content/uploads/194/2023/02/R-1.jpg",
+          "scholarship_category": "Postgraduate",
+          "location": {
+            "country": "South Korea",
+            "city": "Seoul"
+          },
+          "application_deadline": "2025-04-10",
+          "subject_category": "Technology",
+          "application_fees": 50,
+          "rating": 4.7,
+          "scholarship_details_url": "https://example.com/seoul_scholarship",
+          "subject_name": "Artificial Intelligence",
+          "scholarship_description": "Scholarship for students researching advancements in AI technology.",
+          "stipend": "₩20,000,000 annually",
+          "post_date": "2025-01-11",
+          "service_charge": 15,
+          "apply_scholarship_url": "https://example.com/apply_seoul"
+        },
+        {
+          "university_name": "University of Melbourne",
+          "university_logo": "https://images.unsplash.com/photo-1470378639897-89788e74b7bf?q=80&w=2074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "scholarship_category": "Graduate",
+          "location": {
+            "country": "Australia",
+            "city": "Melbourne"
+          },
+          "application_deadline": "2025-05-01",
+          "subject_category": "Business",
+          "application_fees": 85,
+          "rating": 4.8,
+          "scholarship_details_url": "https://example.com/melbourne_scholarship",
+          "subject_name": "International Business",
+          "scholarship_description": "Scholarship for graduate students pursuing careers in global trade.",
+          "stipend": "A$15,000 annually",
+          "post_date": "2025-01-14",
+          "service_charge": 12,
+          "apply_scholarship_url": "https://example.com/apply_melbourne"
+        },
+        {
+          "university_name": "Technical University of Munich (TUM)",
+          "university_logo": "https://lh3.googleusercontent.com/p/AF1QipOwA8q7eizi6OVCSxaAb4CPPvof6Q2PR62-gkFm=s1360-w1360-h1020",
+          "scholarship_category": "PhD",
+          "location": {
+            "country": "Germany",
+            "city": "Munich"
+          },
+          "application_deadline": "2025-06-01",
+          "subject_category": "Engineering",
+          "application_fees": 60,
+          "rating": 4.8,
+          "scholarship_details_url": "https://example.com/tum_scholarship",
+          "subject_name": "Mechanical Engineering",
+          "scholarship_description": "Scholarship for PhD research in sustainable manufacturing technologies.",
+          "stipend": "€18,000 annually",
+          "post_date": "2025-01-13",
+          "service_charge": 15,
+          "apply_scholarship_url": "https://example.com/apply_tum"
+        }
+      
+      
+
+
+
+]

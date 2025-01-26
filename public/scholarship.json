@@ -1,0 +1,423 @@
+[
+  {
+    "universityName": "Harvard University",
+    "universityLogo": "https://www.avanse.com/blogs/images/What%20you%20must%20know%20about%20Harvard%20University.jpg",
+    "scholarshipCategory": "Full Scholarship",
+    "universityLocation": "Cambridge, USA",
+    "applicationDeadline": "2025-04-30",
+    "subjectCategory": "Engineering",
+    "applicationFees": "$50",
+    "rating": 4.8,
+    "scholarshipDetailsButton": "View Details"
+  },
+  {
+    "universityName": "Stanford University",
+    "universityLogo": "https://agevolution.canalrural.com.br/wp-content/uploads/2019/09/homeXL.jpg",
+    "scholarshipCategory": "Merit-Based Scholarship",
+    "universityLocation": "Stanford, California, USA",
+    "applicationDeadline": "2025-05-15",
+    "subjectCategory": "Computer Science",
+    "applicationFees": "$75",
+    "rating": 4.9,
+    "scholarshipDetailsButton": "View Details"
+  },
+  {
+    "universityName": "University of Oxford",
+    "universityLogo": "https://cdn.getyourguide.com/img/location/5c10eb21206c9.jpeg/99.jpg",
+    "scholarshipCategory": "Partial Scholarship",
+    "universityLocation": "Oxford, UK",
+    "applicationDeadline": "2025-06-01",
+    "subjectCategory": "Mathematics",
+    "applicationFees": "$40",
+    "rating": 4.7,
+    "scholarshipDetailsButton": "View Details"
+  },
+  {
+    "universityName": "University of Cambridge",
+    "universityLogo": "https://www.edgeip.com/images/FCK/Image/202307/Cambridge-CollegesFacultiesWork.jpg",
+    "scholarshipCategory": "Need-Based Scholarship",
+    "universityLocation": "Cambridge, England, UK",
+    "applicationDeadline": "2025-07-01",
+    "subjectCategory": "Biology",
+    "applicationFees": "$60",
+    "rating": 4.6,
+    "scholarshipDetailsButton": "View Details"
+  },
+  {
+    "universityName": "MIT University",
+    "universityLogo": "https://images.unsplash.com/photo-1605470207062-b72b5cbe2a87?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDd8fHxlbnwwfHx8fHw%3D",
+    "scholarshipCategory": "Research Scholarship",
+    "universityLocation": "Cambridge, Massachusetts, USA",
+    "applicationDeadline": "2025-05-25",
+    "subjectCategory": "Physics",
+    "applicationFees": "$70",
+    "rating": 4.9,
+    "scholarshipDetailsButton": "View Details"
+  },
+  {
+    "universityName": "University of California",
+    "universityLogo": "https://images.unsplash.com/photo-1671709363690-9392d9b38949?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "scholarshipCategory": "Scholarship for International Students",
+    "universityLocation": "Berkeley, California, USA",
+    "applicationDeadline": "2025-06-15",
+    "subjectCategory": "Economics",
+    "applicationFees": "$85",
+    "rating": 4.7,
+    "scholarshipDetailsButton": "View Details"
+  },
+  {
+    "universityName": "Princeton University",
+    "universityLogo": "https://images.unsplash.com/photo-1635642158658-1468b1cf403c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "scholarshipCategory": "Undergraduate Scholarship",
+    "universityLocation": "Princeton, New Jersey, USA",
+    "applicationDeadline": "2025-04-20",
+    "subjectCategory": "Psychology",
+    "applicationFees": "$55",
+    "rating": 4.8,
+    "scholarshipDetailsButton": "View Details"
+  },
+  {
+    "universityName": "Columbia University",
+    "universityLogo": "https://images.unsplash.com/photo-1698248476242-bfde13928633?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "scholarshipCategory": "Full-Tuition Scholarship",
+    "universityLocation": "New York City, New York, USA",
+    "applicationDeadline": "2025-05-10",
+    "subjectCategory": "Law",
+    "applicationFees": "$90",
+    "rating": 4.9,
+    "scholarshipDetailsButton": "View Details"
+  },
+  {
+    "universityName": "California Institute of Technology",
+    "universityLogo": "https://facts.net/wp-content/uploads/2023/09/19-intriguing-facts-about-california-institute-of-technology-caltech-1695570423.jpg",
+    "scholarshipCategory": "Postgraduate Scholarship",
+    "universityLocation": "Pasadena, California, USA",
+    "applicationDeadline": "2025-06-30",
+    "subjectCategory": "Engineering",
+    "applicationFees": "$100",
+    "rating": 4.8,
+    "scholarshipDetailsButton": "View Details"
+  },
+  {
+    "universityName": "Yale University",
+    "universityLogo": "https://admissions.yale.edu/sites/default/files/styles/main-carousel-image--1280x850/public/home-main-carousel-images/crosscampus2019.png?itok=QJDBkwgU",
+    "scholarshipCategory": "Arts and Humanities Scholarship",
+    "universityLocation": "New Haven, Connecticut, USA",
+    "applicationDeadline": "2025-07-05",
+    "subjectCategory": "Philosophy",
+    "applicationFees": "$65",
+    "rating": 4.7,
+    "scholarshipDetailsButton": "View Details"
+  },
+  {
+    "universityName": "University of Chicago",
+    "universityLogo": "https://images.unsplash.com/photo-1644204617659-c8b3bb6800db?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "scholarshipCategory": "Business Scholarship",
+    "universityLocation": "Chicago, Illinois, USA",
+    "applicationDeadline": "2025-06-10",
+    "subjectCategory": "Business Administration",
+    "applicationFees": "$75",
+    "rating": 4.8,
+    "scholarshipDetailsButton": "View Details"
+  },
+  {
+    "universityName": "University of Toronto",
+    "universityLogo": "https://www.trinity.utoronto.ca/wp-content/uploads/2019/01/trinity-home-wide-01.jpg",
+    "scholarshipCategory": "Merit-Based Scholarship",
+    "universityLocation": "Toronto, Ontario, Canada",
+    "applicationDeadline": "2025-04-25",
+    "subjectCategory": "Computer Science",
+    "applicationFees": "$50",
+    "rating": 4.6,
+    "scholarshipDetailsButton": "View Details"
+  },
+  {
+    "universityName": "ETH Zurich University",
+    "universityLogo": "https://images.unsplash.com/photo-1601840698412-cbecc8039e6b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "scholarshipCategory": "Engineering Excellence Scholarship",
+    "universityLocation": "Zurich, Switzerland",
+    "applicationDeadline": "2025-05-20",
+    "subjectCategory": "Mechanical Engineering",
+    "applicationFees": "$55",
+    "rating": 4.8,
+    "scholarshipDetailsButton": "View Details"
+  },
+  {
+    "universityName": "Imperial College London",
+    "universityLogo": "https://images.unsplash.com/photo-1640549700347-280bce42924f?q=80&w=1889&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "scholarshipCategory": "Postgraduate Research Scholarship",
+    "universityLocation": "London, England, UK",
+    "applicationDeadline": "2025-06-05",
+    "subjectCategory": "Chemistry",
+    "applicationFees": "$80",
+    "rating": 4.7,
+    "scholarshipDetailsButton": "View Details"
+  },
+  {
+    "universityName": "University of Tokyo",
+    "universityLogo": "https://images.unsplash.com/photo-1700989101224-c4d286d8279a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "scholarshipCategory": "International Research Fellowship",
+    "universityLocation": "Tokyo, Japan",
+    "applicationDeadline": "2025-07-15",
+    "subjectCategory": "Physics",
+    "applicationFees": "$60",
+    "rating": 4.8,
+    "scholarshipDetailsButton": "View Details"
+  },
+  {
+    "universityName": "NationalUniversity of Singapore",
+    "universityLogo": "https://coinjournal.net/wp-content/uploads/2020/05/NUS.jpg",
+    "scholarshipCategory": "Full-Tuition Scholarship",
+    "universityLocation": "Kent Ridge,Singapore",
+    "applicationDeadline": "2025-05-30",
+    "subjectCategory": "Environmental Science",
+    "applicationFees": "$70",
+    "rating": 4.9,
+    "scholarshipDetailsButton": "View Details"
+  },
+  {
+    "universityName": "Tsinghua University",
+    "universityLogo": "https://media.istockphoto.com/id/178057889/photo/tsinghua-university.jpg?s=612x612&w=0&k=20&c=A5PRKGVllmkMI8tpSAUIzoaM8JtZd7wTEcoNjTDH5a4=",
+    "scholarshipCategory": "Engineering Scholarship",
+    "universityLocation": "Beijing, China",
+    "applicationDeadline": "2025-06-10",
+    "subjectCategory": "Electrical Engineering",
+    "applicationFees": "$45",
+    "rating": 4.7,
+    "scholarshipDetailsButton": "View Details"
+  },
+  {
+    "universityName": "Peking University",
+    "universityLogo": "https://images.unsplash.com/photo-1566796096958-94dacebdcb6a?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "scholarshipCategory": "Undergraduate Scholarship",
+    "universityLocation": "Beijing, China",
+    "applicationDeadline": "2025-07-01",
+    "subjectCategory": "Law",
+    "applicationFees": "$50",
+    "rating": 4.6,
+    "scholarshipDetailsButton": "View Details"
+  },
+  {
+    "universityName": "University of Melbourne",
+    "universityLogo": "https://images.unsplash.com/photo-1470378639897-89788e74b7bf?q=80&w=2074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "scholarshipCategory": "Scholarship for International Students",
+    "universityLocation": "Melbourne, Australia",
+    "applicationDeadline": "2025-05-15",
+    "subjectCategory": "Social Sciences",
+    "applicationFees": "$65",
+    "rating": 4.7,
+    "scholarshipDetailsButton": "View Details"
+  },
+  {
+    "universityName": "Australian National University",
+    "universityLogo": "https://didmdw8v48h5q.cloudfront.net/wp-content/uploads/2021/11/australian-national-university.jpeg",
+    "scholarshipCategory": "Research Scholarship",
+    "universityLocation": "Canberra, Australia",
+    "applicationDeadline": "2025-06-25",
+    "subjectCategory": "Physics",
+    "applicationFees": "$75",
+    "rating": 4.8,
+    "scholarshipDetailsButton": "View Details"
+  },
+  {
+    "universityName": "University of British Columbia",
+    "universityLogo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/1b/0f/b6/irving-k-barber-learning.jpg?w=1200&h=-1&s=1",
+    "scholarshipCategory": "Merit-Based Scholarship",
+    "universityLocation": "Vancouver, British Columbia, Canada",
+    "applicationDeadline": "2025-04-30",
+    "subjectCategory": "Psychology",
+    "applicationFees": "$55",
+    "rating": 4.7,
+    "scholarshipDetailsButton": "View Details"
+  },
+  {
+    "universityName": "Seoul National University",
+    "universityLogo": "https://international.eng.ui.ac.id/wp-content/uploads/194/2023/02/R-1.jpg",
+    "scholarshipCategory": "Full Scholarship",
+    "universityLocation": "Seoul, South Korea",
+    "applicationDeadline": "2025-06-20",
+    "subjectCategory": "Political Science",
+    "applicationFees": "$80",
+    "rating": 4.6,
+    "scholarshipDetailsButton": "View Details"
+  },
+  {
+    "universityName": "University of Hong Kong",
+    "universityLogo": "https://www.gohk.gov.hk/uploads/photo/1_C&W_18_%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%AD%B8_1.jpg",
+    "scholarshipCategory": "International Fellowship",
+    "universityLocation": "Hong Kong, China",
+    "applicationDeadline": "2025-07-10",
+    "subjectCategory": "Medicine",
+    "applicationFees": "$70",
+    "rating": 4.9,
+    "scholarshipDetailsButton": "View Details"
+  },
+  {
+    "universityName": "London School of Economics",
+    "universityLogo": "https://i.guim.co.uk/img/media/231e2c0107c3a69f5f6ed2a7ef6fdea014883046/0_88_2261_1356/master/2261.jpg?width=1200&quality=85&auto=format&fit=max&s=7b8bd79da158a3120cfe0c60effa8b47",
+    "scholarshipCategory": "Economics Scholarship",
+    "universityLocation": "London, England, UK",
+    "applicationDeadline": "2025-06-05",
+    "subjectCategory": "Economics",
+    "applicationFees": "$85",
+    "rating": 4.8,
+    "scholarshipDetailsButton": "View Details"
+  },
+
+
+  
+    {
+      "universityName": "University of California, Los Angeles",
+      "universityLogo": "https://collegevine.imgix.net/943fe26c-d202-4f7e-be85-756281a764ed.jpg?fit=crop&crop=edges&auto=format",
+      "scholarshipCategory": "Merit Scholarship",
+      "universityLocation": "Los Angeles, California, USA",
+      "applicationDeadline": "2025-04-15",
+      "subjectCategory": "Psychology",
+      "applicationFees": "$45",
+      "rating": 4.6,
+      "scholarshipDetailsButton": "View Details"
+    },
+    {
+      "universityName": "University of Edinburgh",
+      "universityLogo": "https://bsc.cdn.ngo/media/images/University_of_Edinburgh_edit.2e16d0ba.fill-1200x630.jpg",
+      "scholarshipCategory": "Postgraduate Scholarship",
+      "universityLocation": "Edinburgh, Scotland, UK",
+      "applicationDeadline": "2025-06-30",
+      "subjectCategory": "Physics",
+      "applicationFees": "$50",
+      "rating": 4.7,
+      "scholarshipDetailsButton": "View Details"
+    },
+    {
+      "universityName": "University of Melbourne",
+      "universityLogo": "https://images.unsplash.com/photo-1470378639897-89788e74b7bf?q=80&w=2074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "scholarshipCategory": "International Scholarship",
+      "universityLocation": "Melbourne, Australia",
+      "applicationDeadline": "2025-05-15",
+      "subjectCategory": "Engineering",
+      "applicationFees": "$70",
+      "rating": 4.8,
+      "scholarshipDetailsButton": "View Details"
+    },
+    {
+      "universityName": "ETH Zurich University",
+      "universityLogo": "https://images.unsplash.com/photo-1601840698412-cbecc8039e6b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "scholarshipCategory": "Graduate Scholarship",
+      "universityLocation": "Zurich, Switzerland",
+      "applicationDeadline": "2025-05-20",
+      "subjectCategory": "Mechanical Engineering",
+      "applicationFees": "$60",
+      "rating": 4.9,
+      "scholarshipDetailsButton": "View Details"
+    },
+    {
+      "universityName": "University of Toronto",
+      "universityLogo": "https://www.trinity.utoronto.ca/wp-content/uploads/2019/01/trinity-home-wide-01.jpg",
+      "scholarshipCategory": "Research Fellowship",
+      "universityLocation": "Toronto, Ontario, Canada",
+      "applicationDeadline": "2025-06-10",
+      "subjectCategory": "Medicine",
+      "applicationFees": "$80",
+      "rating": 4.7,
+      "scholarshipDetailsButton": "View Details"
+    },
+    {
+      "universityName": "NationalUniversity of Singapore",
+      "universityLogo": "https://coinjournal.net/wp-content/uploads/2020/05/NUS.jpg",
+      "scholarshipCategory": "Full Scholarship",
+      "universityLocation": " Kent Ridge,Singapore",
+      "applicationDeadline": "2025-07-01",
+      "subjectCategory": "Environmental Science",
+      "applicationFees": "$50",
+      "rating": 4.8,
+      "scholarshipDetailsButton": "View Details"
+    },
+    {
+      "universityName": "University of Hong Kong",
+      "universityLogo": "https://www.gohk.gov.hk/uploads/photo/1_C&W_18_%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%AD%B8_1.jpg",
+      "scholarshipCategory": "Postgraduate Scholarship",
+      "universityLocation": "Hong Kong, China",
+      "applicationDeadline": "2025-07-20",
+      "subjectCategory": "Law",
+      "applicationFees": "$65",
+      "rating": 4.6,
+      "scholarshipDetailsButton": "View Details"
+    },
+    {
+      "universityName": "Columbia University",
+      "universityLogo": "https://images.unsplash.com/photo-1698248476242-bfde13928633?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "scholarshipCategory": "Merit-Based Scholarship",
+      "universityLocation": "New York City, New York, USA",
+      "applicationDeadline": "2025-05-25",
+      "subjectCategory": "Business Administration",
+      "applicationFees": "$90",
+      "rating": 4.9,
+      "scholarshipDetailsButton": "View Details"
+    },
+    {
+      "universityName": "University of Cape Town",
+      "universityLogo": "https://www.iesabroad.org/sites/default/files/2022-06/YouVisit_IESCapeTown_universityofcapetown1.jpg",
+      "scholarshipCategory": "Full-Tuition Scholarship",
+      "universityLocation": "Cape Town, South Africa",
+      "applicationDeadline": "2025-06-01",
+      "subjectCategory": "Engineering",
+      "applicationFees": "$55",
+      "rating": 4.7,
+      "scholarshipDetailsButton": "View Details"
+    },
+    {
+      "universityName": "Princeton University",
+      "universityLogo": "https://images.unsplash.com/photo-1635642158658-1468b1cf403c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "scholarshipCategory": "Undergraduate Scholarship",
+      "universityLocation": "Princeton, New Jersey, USA",
+      "applicationDeadline": "2025-04-30",
+      "subjectCategory": "Mathematics",
+      "applicationFees": "$60",
+      "rating": 4.8,
+      "scholarshipDetailsButton": "View Details"
+    },
+
+
+    {
+      "universityName": "University of Auckland",
+      "universityLogo": "https://www.thinkgeoenergy.com/wp-content/uploads/2011/11/UniversityAuckland_NZ.jpg",
+      "scholarshipCategory": "Undergraduate Scholarship",
+      "universityLocation": "Auckland, New Zealand",
+      "applicationDeadline": "2025-07-30",
+      "subjectCategory": "Architecture",
+      "applicationFees": "$50",
+      "rating": 4.7,
+      "scholarshipDetailsButton": "View Details"
+    },
+    {
+      "universityName": "University of Sydney",
+      "universityLogo": "https://oztrekk.com/wp-content/uploads/2019/01/sydney_campus.jpg",
+      "scholarshipCategory": "Global Leadership Scholarship",
+      "universityLocation": "Sydney, Australia",
+      "applicationDeadline": "2025-09-05",
+      "subjectCategory": "Business and Management",
+      "applicationFees": "$80",
+      "rating": 4.8,
+      "scholarshipDetailsButton": "View Details"
+    }
+    
+
+
+
+
+  ]
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
