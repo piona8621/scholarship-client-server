@@ -89,7 +89,7 @@ Edit
 cd client
 npm start
 Open the app in your browser:
-http://localhost:3000
+http://localhost:5000
 
 npm Packages Used
 Frontend:
