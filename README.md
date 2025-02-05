@@ -14,7 +14,7 @@ The Scholarship Management System is a web-based platform that allows students t
 
 📖 Table of Contents
 Project Overview
-Live Demo
+Live Demo : https://scholar-ship-project.web.app/
 Features
 Installation
 Usage
