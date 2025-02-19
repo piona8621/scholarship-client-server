@@ -75,7 +75,7 @@ import { Helmet } from "react-helmet-async";
 
 
 
-const stripePromise = loadStripe(import.meta.env.VITE_PAYMENT_GETWAY)
+const stripePromise = loadStripe(import.meta.env.VITE_Payment_Getway);
 const PaymentPage = () => {
   return (
     <div>

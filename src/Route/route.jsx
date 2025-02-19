@@ -32,6 +32,10 @@ import AnalyticsChart from "../Pages/Admin/AnalyticsChart";
 import ManageScholarship from "../Pages/UserDasboard/ManageScholarShip";
 import AdminDashBoard from "../Layout/AdminDashBoard";
 import NotFound from "../Components/NotFound";
+import Contact from "../Components/ContactUs";
+import AboutUs from "../Components/AboutUs";
+import Testimonial from "../Components/Testimonial";
+import Overview from "../Layout/OverView";
 // import ProtectedRoute from "./ProtectedRoute";
 // import ManageUsers from "../Pages/Admin/ManageUsers";
 
@@ -51,6 +55,18 @@ const router = createBrowserRouter([
     {
       path: '/all-scholarship',
       element:<AllScholarships></AllScholarships>
+    },
+    {
+      path: '/contact',
+      element: <Contact></Contact>
+    },
+    {
+    path: '/about',
+    element: <AboutUs></AboutUs>
+    },
+    {
+      path: '/testimonials',
+      element: <Testimonial></Testimonial>
     },
     {
       path: '/login',
@@ -134,6 +150,7 @@ const router = createBrowserRouter([
         <MyProfile></MyProfile>
       </PrivateRoute>
     },
+    
     {
       path: 'application',
       element:<PrivateRoute>
@@ -167,6 +184,10 @@ const router = createBrowserRouter([
 {
   path: 'add-scholarship',
   element:<AddScholarShip></AddScholarShip>,
+},
+{
+  path: "overview",
+  element: <Overview></Overview>
 },
 {
    path: 'manage-scholarship',
